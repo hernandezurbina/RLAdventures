@@ -3,3 +3,6 @@ models/*
 .ipynb_checkpoints/*
 checkpoint
 *.h5f.*
+snake/gymsnake.egg-info/*
+snake/snake/__pycache__/*
+snake/snake/envs/__pycache__/*
